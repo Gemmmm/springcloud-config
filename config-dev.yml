@@ -1,1 +1,2 @@
-message: "type=dev,version=1"
+config:
+    info: "type=dev,version=1"

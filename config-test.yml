@@ -1,1 +1,2 @@
-message: "type=test,version=1"
+config:
+    info: "type=test,version=1"

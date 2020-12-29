@@ -1,1 +1,2 @@
-message: "type=prod,version=1"
+config:
+    info: "type=prod,version=1"
